@@ -12,6 +12,8 @@
 
 // 4.作为合式公式求解，给出主析取范式以及主合取范式的Mathgether函数。
 
+//更多功能等待空闲的时候开发，目前就这些
+
 ⭐A simple discrete math helper to help discrete math beginners with assisted calculations About the requirements analysis part of the code:
 
 Requirement Analysis:
