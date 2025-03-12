@@ -1,6 +1,6 @@
 // 主函数主要是作为一个输出的窗口，更多的是互动性，真正的功能实现在于Mathcounterm和mathtablem的这两个函数
 // 函数封装在Mathtable Mathcounter两个文件中，使用extern + 函数名的形式作为调用。
-//
+//原谅我主文件图省事直接叫filename吧
 //选择进行输出的类型以及类别
 
 #include <iostream>
